@@ -16,10 +16,9 @@ Ex: A = {1, 2, 3, 5, 7, 8, 10 }
 
 Deve gerar a árvore:
 
-             5
-    2              8
+          5
+   2              8
 1     3        7    10
-
 
 Para regra de AB:o caso de metade de dados pares, prefere-se primeiro dados direito.
 
